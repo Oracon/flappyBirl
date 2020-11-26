@@ -1,6 +1,6 @@
 #HTML5 flappy BIRL
 
-play here: https://gcabrini.github.io/flappyBirl/
+play here: https://oracon.github.io/flappyBirl/
 
 based on http://uralozden.com/flappy/
 
